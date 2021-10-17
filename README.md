@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/91012632/137629570-da474404-d6af-4c1d-af4d-8966418edc49.png)
 
-This program takes input from a CSV file, which is downloaded from bank sites(bank of the person), and visualises the data
+It reads a IPL batting stats from 2008-2019 as a csv file and then makes a database off it
 
 # Contributers
 
